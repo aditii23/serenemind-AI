@@ -1,6 +1,6 @@
-# 🧠 MindEase – AI Mental Wellness Platform
+# 🧠 sereneMind – AI Mental Wellness Platform
 
-MindEase is a full-stack AI-powered mental wellness web application designed to help users understand their stress levels, track moods, and receive personalized, non-medical mental health guidance in a safe and ethical way.
+sereneMind is a full-stack AI-powered mental wellness web application designed to help users understand their stress levels, track moods, and receive personalized, non-medical mental health guidance in a safe and ethical way.
 
 > ⚠️ Disclaimer: This platform does NOT provide medical or clinical advice. It is meant for awareness and self-help only.
 
