@@ -1,0 +1,6 @@
+
+{
+  "name": "SereneMind AI",
+  "description": "A comprehensive mental wellness platform providing AI-powered stress analysis, mood tracking, and guided mindfulness exercises in a supportive, non-medical environment.",
+  "requestFramePermissions": ["camera"]
+}
