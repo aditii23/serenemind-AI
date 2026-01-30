@@ -193,11 +193,6 @@ Do NOT provide medical advice.
 
 ---
 
-## 📌 Resume / Hackathon Description
-**MindEase** is an AI-driven mental wellness platform that provides stress detection, mood tracking, and personalized coping guidance using React, Node.js, MongoDB, and AI models, while ensuring ethical and non-clinical mental health support.
-
----
-
 ## ❤️ Acknowledgement
 Built with a focus on empathy, simplicity, and ethical AI to promote mental well-being.
 
