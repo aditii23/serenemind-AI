@@ -193,6 +193,10 @@ Do NOT provide medical advice.
 
 ---
 
+## 🧠 sereneMind – AI Mental Wellness Platform
+
+🌐 Live Demo: https://serenemi.netlify.app/#/
+
 ## ❤️ Acknowledgement
 Built with a focus on empathy, simplicity, and ethical AI to promote mental well-being.
 
