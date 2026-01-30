@@ -103,7 +103,7 @@ sereneMind is a full-stack AI-powered mental wellness web application designed t
 
 ## 🗂️ Project Structure
 
-mind-ease/
+sereneMind - AI
 │
 ├── backend/
 │ ├── controllers/
